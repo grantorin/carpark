@@ -41,12 +41,19 @@
       "photo": "/static/images/alpha.jpeg"
     },
     {
-      "id": 5,
+      "id": 6,
       "title": "Jaguar",
       "description": "Super car!!!",
       "maxSpeed": 320,
       "currentRun": 10,
       "photo": "/static/images/2019-jaguar-xj50.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Subaru",
+      "description": "Super car!!!",
+      "maxSpeed": 320,
+      "currentRun": 106
     }
   ],
   "speedItems": [
